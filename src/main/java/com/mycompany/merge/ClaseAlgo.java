@@ -11,3 +11,4 @@ package com.mycompany.merge;
 public class ClaseAlgo {
     //merge algo
 }
+//comentario merge
